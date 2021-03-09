@@ -9,7 +9,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 * [В руководстве использования KeyValidator валидные и не валидные ключи не соответствуют требованиям.](https://github.com/Guliaiev/javadz1.1/issues/2)
-* [Несогласованность документации.](https://github.com/Guliaiev/javadz1.1/issues/1)
+
 
 # В процессе тестирования использовались следующие артефакты
 * [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
